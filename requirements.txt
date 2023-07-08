@@ -1,0 +1,4 @@
+List of requirements:
+pillow
+gtts
+moviepy
