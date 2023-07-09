@@ -1,6 +1,6 @@
 # Introduction
 
-The purpose of my YouTube Download script was to download the highest-quality YouTube video available from a given link, which is prompted for at the time the script is ran. It can download 4K60FPS videos, which is something websites do NOT offer free of charge.
+The purpose of my YouTube Download script is to download the highest-quality YouTube video available from a given link, which is prompted for at the time the script is ran. It can download 4K60FPS videos, which is something websites do NOT offer free of charge.
 
 <hr>
 
